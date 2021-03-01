@@ -15,7 +15,7 @@
    font-family: 'Brush Script MT', cursive;
     white-space: nowrap;
 }
-#nnn{
+#navhed{
     text-decoration:underline ;
 }
 
@@ -28,7 +28,7 @@
     color: rgb(141, 138, 138);
 }
 #contact{
-    color: white;
+   
     font-size: 12px;
 }
 .navbar-expand-lg .navbar-nav .nav-link{
